@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **M
 
 ---
 
-## 🚀 About Me
+## 🙂 About Me
 -  **Role:** Node.js Developer | MERN Stack Enthusiast
 -  **Education:** Bachelor of Science in Computer Science
 -  **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB Aggregations), React Optimization, SEO Strategies
