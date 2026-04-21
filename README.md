@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHfiel5HGfElQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732219831808?e=1737590400&v=beta&t=qosNqTCprWT6Ilo4Fv6GM8RpBJJyLCKoQA8DcEpIlGQ)](https://AbdulMoeez1278.io)
 
-# 👋 Hi there, I'm Abdul Moeez Tariq (@AbdulMoeez1278)
+# 👋 Hi there, I'm Abdul Moeez Tariq (@moizycodes)
 
 Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and passionate about building **scalable, performant, and user-friendly web applications**. I bring together **frontend precision** and **backend logic** to develop complete solutions that solve real-world problems.
 
