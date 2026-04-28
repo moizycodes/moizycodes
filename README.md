@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHfiel5HGfElQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732219831808?e=1737590400&v=beta&t=qosNqTCprWT6Ilo4Fv6GM8RpBJJyLCKoQA8DcEpIlGQ)](https://AbdulMoeez1278.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHfiel5HGfElQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732219831808?e=1737590400&v=beta&t=qosNqTCprWT6Ilo4Fv6GM8RpBJJyLCKoQA8DcEpIlGQ)](https://moizycodes.io)
 
 # 👋 Hi there, I'm Abdul Moeez Tariq (@moizycodes)
 
@@ -147,7 +147,7 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 ## 🌐 Active Platforms
 | Platform          | Description                                           | Links                                                 |
 |-------------------|-------------------------------------------------------|-------------------------------------------------------|
-| **GitHub**        | Open-source code and personal projects                | [@AbdulMoeez1278](https://github.com/AbdulMoeez1278)  |
+| **GitHub**        | Open-source code and personal projects                | [@moizycodes](https://github.com/moizycodes)  |
 | **LinkedIn**      | Professional network & job connections                | [linkedin](https://linkedin.com/in/abdul-moeez-tariq) |
 | **Instagram**     | Daily life vlogs as a Dev content (coming soon)       | [@moizycodes](https://www.instagram.com/@moizycodes)  |
 | **YouTube**       | Daily life vlogs as a Dev content (coming soon)       | [Life of Moeez](https://www.youtube.com/@moizyvlogs)  |
@@ -162,20 +162,20 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 - Designed with a clean UI using HTML, CSS, Bootstrap, and Tailwind CSS for seamless user experience across devices.
 - Built to simulate real-world medical workflows and improve healthcare access digitally.
 
-### 2. [Covid19-CoronaVirus](https://github.com/AbdulMoeez1278/Covid19-CoronaVirus_Website) - `HTML` `CSS` `Bootstrap` `JavaScript`
+### 2. [Covid19-CoronaVirus](https://github.com/moizycodes/Covid19-CoronaVirus_Website) - `HTML` `CSS` `Bootstrap` `JavaScript`
 A web-based platform designed to provide up-to-date information about the COVID-19 pandemic.  
 - Built a **responsive and mobile-friendly** design using HTML, CSS, and Bootstrap.  
 - Added dynamic content using **JavaScript**, including interactive sections for symptoms, prevention measures, and vaccination information.  
 - Focused on user-friendly navigation and visually appealing design to help users stay informed and safe.  
 
-### 3. [SAIT - Sky Alam International Tours](https://github.com/AbdulMoeez1278/SAIT-WEB-BASED-Project) - `HTML` `CSS` `Bootstrap` `JavaScript`
+### 3. [SAIT - Sky Alam International Tours](https://github.com/moizycodes/SAIT-WEB-BASED-Project) - `HTML` `CSS` `Bootstrap` `JavaScript`
 A front-end platform showcasing hotels and tour packages for seamless travel exploration.  
 - Developed a **responsive layout** using HTML, CSS, and Bootstrap for optimal user experience across devices.  
 - Highlighted tour packages with detailed descriptions, pricing, and high-quality images.  
 - Implemented dynamic features like image sliders and interactive maps with **JavaScript**.  
 - Included customer testimonials, contact information, and a support form for enhanced credibility and communication.
 
-### 4. [Real-Time Form Validation](https://github.com/AbdulMoeez1278/realtime-form-validation-tailwind-js) - `JavaScript` `Tailwind CSS` `HTML`
+### 4. [Real-Time Form Validation](https://github.com/moizycodes/realtime-form-validation-tailwind-js) - `JavaScript` `Tailwind CSS` `HTML`
 - Form with real-time JavaScript validation and dynamic error handling.
 - A fully responsive contact form featuring real-time validation using JavaScript and Tailwind CSS.
 - Each input field provides instant visual feedback with red borders for errors and blue for valid entries.
@@ -211,7 +211,7 @@ Let’s build something amazing together.
 
 ## 📫 Contact Me
 - **Email:** [moizycodes.dev@gmail.com](mailto:moizycodes.dev@gmail.com)  
-- **GitHub:** [github.com/AbdulMoeez1278](https://github.com/AbdulMoeez1278)  
+- **GitHub:** [github.com/moizycodes](https://github.com/moizycodes)  
 - **LinkedIn:** [linkedin.com/in/abdul-moeez-tariq](https://linkedin.com/in/abdul-moeez-tariq)  
 
 ---
@@ -246,16 +246,16 @@ When I'm not immersed in code, I'm likely streaming on YouTube, exploring new ca
 
 > ⭐ If my work inspires you, feel free to star a repository, connect, or reach out. Thanks for visiting!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoeez1278&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoeez1278" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moizycodes&label=Profile%20views&color=0e75b6&style=flat" alt="moizycodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulmoeez1278" alt="abdulmoeez1278" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moizycodes" alt="moizycodes" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmoeez1278&show_icons=true&locale=en&layout=compact" alt="abdulmoeez1278" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moizycodes&show_icons=true&locale=en&layout=compact" alt="moizycodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmoeez1278&show_icons=true&locale=en" alt="abdulmoeez1278" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moizycodes&show_icons=true&locale=en" alt="moizycodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmoeez1278&" alt="abdulmoeez1278" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moizycodes&" alt="moizycodes" /></p>
 <!---
-AbdulMoeez1278/AbdulMoeez1278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+moizycodes/moizycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
