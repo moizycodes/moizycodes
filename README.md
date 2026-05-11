@@ -21,7 +21,7 @@ I thrive at the intersection of **design, functionality, and performance**, work
 ### 🔹 Languages & Frameworks
 - `HTML5`, `CSS3`, `JavaScript (ES6+)`, `TypeScript`
 - `Node.js`, `Express.js`, `React.js`, `MongoDB`, `EJS`
-- `GSAP`, `jQuery`, `JSON`, `Axios`
+- `GSAP`, `jQuery`, `JSON`, `Axios`, `Astro.js`
 
 ### 🔹 Styling & UI
 - `Tailwind CSS`, `Bootstrap`, `SASS/SCSS`, `LESS`
