@@ -147,9 +147,9 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 ## 🌐 Active Platforms
 | Platform          | Description                                           | Links                                                 |
 |-------------------|-------------------------------------------------------|-------------------------------------------------------|
-| **GitHub**        | Open-source code and personal projects                | [@moizycodes](https://github.com/moizycodes)  |
-| **LinkedIn**      | Professional network & job connections                | [linkedin](https://linkedin.com/in/abdul-moeez-tariq) |
-| **Instagram**     | Daily life vlogs as a Dev content (coming soon)       | [@moizycodes](https://www.instagram.com/@moizycodes)  |
+| **GitHub**        | Open-source code and personal projects                | [moizycodes](https://github.com/moizycodes)  |
+| **LinkedIn**      | Professional network & job connections                | [moizycodes](https://linkedin.com/in/moizy-codes) |
+| **Instagram**     | Daily life vlogs as a Dev content (coming soon)       | [moizycodes](https://www.instagram.com/@moizycodes)  |
 | **YouTube**       | Daily life vlogs as a Dev content (coming soon)       | [Life of Moeez](https://www.youtube.com/@moizyvlogs)  |
 | **Blogger**       | Developer blogs, tutorials, and personal journey      | [BuiltByMoizy](https://builtbymoizy.blogspot.com)     |
 
@@ -212,7 +212,7 @@ Let’s build something amazing together.
 ## 📫 Contact Me
 - **Email:** [moizycodes.dev@gmail.com](mailto:moizycodes.dev@gmail.com)  
 - **GitHub:** [github.com/moizycodes](https://github.com/moizycodes)  
-- **LinkedIn:** [linkedin.com/in/abdul-moeez-tariq](https://linkedin.com/in/abdul-moeez-tariq)  
+- **LinkedIn:** [linkedin.com/in/moizy-codes](https://linkedin.com/in/moizy-codes)  
 
 ---
 
