@@ -148,7 +148,7 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 | Platform          | Description                                           | Links                                                 |
 |-------------------|-------------------------------------------------------|-------------------------------------------------------|
 | **GitHub**        | Open-source code and personal projects                | [moizycodes](https://github.com/moizycodes)  |
-| **LinkedIn**      | Professional network & job connections                | [moizycodes](https://linkedin.com/in/moizy-codes) |
+| **LinkedIn**      | Professional network & job connections                | [moizy-codes](https://linkedin.com/in/moizy-codes) |
 | **Instagram**     | Daily life vlogs as a Dev content (coming soon)       | [moizycodes](https://www.instagram.com/@moizycodes)  |
 | **YouTube**       | Daily life vlogs as a Dev content (coming soon)       | [Life of Moeez](https://www.youtube.com/@moizyvlogs)  |
 | **Blogger**       | Developer blogs, tutorials, and personal journey      | [BuiltByMoizy](https://builtbymoizy.blogspot.com)     |
